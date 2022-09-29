@@ -1,0 +1,20 @@
+.container {
+  margin: 100px;
+  width: 800px;
+  padding: 70px;
+  align-self: center;
+  margin-left: 450px;
+  background-color: white;
+  opacity: 0.9;
+}
+
+.container-fluid {
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  background-image: url(../src/download.jpeg);
+}
+
+a {
+  text-decoration: none;
+}
